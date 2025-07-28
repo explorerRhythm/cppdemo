@@ -10,8 +10,8 @@ int main(){
     std::cout<<"Enter another integer: \n";
     std::cin>>y;
 
-    std::cout<< "the addition of x and y " << x + y ;
-    std::cout<< "the subtraction of x and y " << x - y ;
+    std::cout<< "\nthe addition of x and y " << x + y ;
+    std::cout<< "\nthe subtraction of x and y " << y - x ;
     
     
     
